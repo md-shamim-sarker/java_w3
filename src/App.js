@@ -1,2 +1,14 @@
-const arr = [10, 12, "Shamim", "Snigdha", "Sneha"];
-console.log(arr[0] + arr[1]);
+myFunc();
+
+function myFunc() {
+    console.log("Hello World!");
+}
+
+const myFunc2 = () => {
+    console.log("Hello World 2!!");
+};
+
+myFunc2();
+
+console.log(x);
+const x = 10;
